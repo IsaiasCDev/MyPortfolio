@@ -1909,9 +1909,9 @@ pre code {
 .form-control:focus {
   color: #495057;
   background-color: #fff;
-  border-color: #62f7df;
+  border-color: #82101b;
   outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(11, 206, 175, 0.25);
+  box-shadow: 0 0 0 0.2rem rgba(206, 11, 11, 0.25);
 }
 
 .form-control::placeholder {
@@ -2666,35 +2666,35 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #0BCEAF;
-  border-color: #0BCEAF;
+  color: #83111c;
+  border-color: #83111c;
 }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #0BCEAF;
-  border-color: #0BCEAF;
+  background-color: #83111c;
+  border-color: #83111c;
 }
 
 .btn-outline-primary:focus, .btn-outline-primary.focus {
-  box-shadow: 0 0 0 0.2rem rgba(11, 206, 175, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(206, 11, 11, 0.5);
 }
 
 .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-  color: #0BCEAF;
+  color: #83111c;
   background-color: transparent;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #0BCEAF;
-  border-color: #0BCEAF;
+  background-color: #83111c;
+  border-color: #83111c;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus,
 .show > .btn-outline-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(11, 206, 175, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(206, 11, 11, 0.5);
 }
 
 .btn-outline-secondary {
@@ -6355,7 +6355,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #0BCEAF !important;
+  background-color: #83111c !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6483,7 +6483,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #0BCEAF !important;
+  border-color: #83111c !important;
 }
 
 .border-secondary {
@@ -9525,7 +9525,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #0BCEAF !important;
+  color: #83111c !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9803,7 +9803,7 @@ h6,
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #0BCEAF;
+  color: #83111c;
 }
 
 @media (max-width: 991.98px) {
@@ -9866,7 +9866,7 @@ h6,
   width: 0;
   height: 0;
   left: -1px;
-  border-left: 16px solid #0BCEAF;
+  border-left: 16px solid #83111c;
   border-top: 11px solid transparent;
   border-bottom: 11px solid transparent;
 }
